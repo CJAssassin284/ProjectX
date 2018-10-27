@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Holder
+  - IcePl
+  - Explosion
+  - LongPlat
+  - BigPlat
+  - CoinBox
+  - Cannonball
+  - Shield
+  - Bomb
+  - Coin
+  - Fire
+  - Spider
+  - Hill
+  - Box
+  - ArrowDrop
+  - Flower
+  - Cannon
+  - ShieldPl
+  - PowerBox
+  - MysteryBox
+  - Ice
+  - DiamondBox
+  - Claw
+  - GameMaster
+  - Red
+  - Blue
+  - Speed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2929536181
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 4257427419
+    locked: 0
